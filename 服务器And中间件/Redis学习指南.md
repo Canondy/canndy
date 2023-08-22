@@ -1,5 +1,5 @@
-#Redis学习指南
-###1.使用Homebrew安装、启动、重启、关闭Redis服务端
+# Redis学习指南
+### 1.使用Homebrew安装、启动、重启、关闭Redis服务端
 > 安装<br>
 > brew install redis 
 
@@ -112,7 +112,7 @@ ZSet:
 
 
 
-###3.字符串String
+### 3.字符串String
 > <br>
 >
 

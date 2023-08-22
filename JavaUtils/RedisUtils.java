@@ -17,6 +17,7 @@ import java.util.concurrent.TimeUnit;
  * ClassName: RedisUtils
  * date: 2023/8/21 12:57 AM
  *
+ * Github地址：https://github.com/iyayu/RedisUtil/blob/master/RedisUtil.java
  *
  * Description:
  * SpringBoot操作Redis的工具类

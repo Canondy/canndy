@@ -1,4 +1,4 @@
-#NVM使用教程(macOS)
+# NVM使用教程(macOS)
 
 >此前电脑上已安装npm和node，不必卸载，不会影响使用
 
