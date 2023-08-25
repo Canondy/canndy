@@ -28,15 +28,15 @@
 | 被留行                                                   |
 
 
-| 账号共享                                                                            |
-|---------------------------------------------------------------------------------| 
-| youtube免费共享账号：https://app.idshare.xyz/                                          |
-| Shadowrocket（好像账号是空的）免费下载：https://shadowrocket.top/                             |
-| 共享美区ID（已购买小火箭）：https://apple.laogoubi.net/                                      |
+| 账号共享                                                                             |
+|----------------------------------------------------------------------------------| 
+| youtube免费共享账号：https://app.idshare.xyz/                                           |
+| Shadowrocket（好像账号是空的）免费下载：https://shadowrocket.top/                              |
+| 共享美区ID（已购买小火箭）：https://apple.laogoubi.net/                                       |
 | 果书共享🆔(这个可以正常下载)：https://aunlock.laogoubi.net/s/df4ab9de842ce5f0abefcc560cf504f0 |
-| 自助购卡商城共享：https://ioss.ml/share/ys#                                              |
-| 探索分享共享账号(公众号：探索分享）：http://unlock.iosshop.xyz/share.php?link=0Gu1FBiSzpaL        |
-| 电报群组：@appleid：https://idshare001.me/                                                                               |
+| 自助购卡商城共享：https://ioss.ml/share/ys#                                               |
+| 探索分享共享账号(公众号：探索分享）：http://unlock.iosshop.xyz/share.php?link=0Gu1FBiSzpaL         |
+| 电报群组：@appleid (正常使用)：https://idshare001.me/                                      |
 
 
 
