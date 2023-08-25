@@ -47,7 +47,7 @@ brew upgrade nginx
 
 ###### 使用Homebrew查看Nginx安装路径，配置文件路径
 
-<img src="/Users/liuhuan/Desktop/截屏2023-08-15 下午6.59.13.png" alt="使用Homebrew查看Nginx安装路径，配置文件路径"  />
+<img src="/Users/{user}/Desktop/截屏2023-08-15 下午6.59.13.png" alt="使用Homebrew查看Nginx安装路径，配置文件路径"  />
 
 ###  2.nginx 的配置文件 nginx.conf 包括以下主要部分:
 
