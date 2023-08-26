@@ -2,6 +2,8 @@
 ### ShadowRocket广告过滤规则
 #### 小火箭配置规则：https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever
 
+#### 小火箭配置规则及模块：https://github.com/deezertidal/shadowrocket-rules
+
 ---------------------------------------------------------------------------------------
 
 ### * 小火箭苹果商店： <br>
