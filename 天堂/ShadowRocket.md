@@ -1,8 +1,17 @@
 
-### ShadowRocket广告过滤规则
+# ShadowRocket广告过滤规则
+
+# 有关科学上网的所有话题：https://github.com/topics/shadowrocket
+
+## 首推  小火箭配置规则及模块：https://github.com/deezertidal/shadowrocket-rules
+
+### 圈 小火箭 stash loon: https://github.com/deezertidal
+
 #### 小火箭配置规则：https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever
 
-#### 小火箭配置规则及模块：https://github.com/deezertidal/shadowrocket-rules
+#### 圈 小火箭 stash loon (好像不更新)：https://github.com/w37fhy/QuantumultX
+
+
 
 ---------------------------------------------------------------------------------------
 

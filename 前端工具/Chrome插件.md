@@ -7,8 +7,10 @@
 
 -----------------------------------------------------------------------
 
-### 推荐插件：tampermonkey
+### 推荐插件：tampermonkey  油猴
 ### 脚本网站：https://greasyfork.org/zh-CN
+### 脚本网站：https://www.youxiaohou.com/
+
 
 ###
 ###
