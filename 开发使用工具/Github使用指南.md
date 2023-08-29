@@ -30,6 +30,22 @@
 
 ======================================================================================================
 
+
+## Idea插件开发
+### IntelliJ-IDEA-Tutorial：https://github.com/judasn/IntelliJ-IDEA-Tutorial/blob/master/plugins-develop.md
+
+#### bilibili搜索  Idea插件开发：
+* 京东技术：https://cloud.tencent.com/developer/article/1348741
+* 京东云开发者：https://juejin.cn/post/7249380394456596535?searchId=202308240158149CF75832847B567FEE97
+* 掘金迈克尔嘿嘿：https://juejin.cn/post/6844904127990857742 （代码好像不全）
+* Recording note：https://github.com/AAA-AA/notebook-plugin/tree/master   （配合bilibili视频）
+* 跟3是一样的：https://github.com/rongyanjuren/markbook
+* 跟 3, 4一样：https://github.com/chengchenrui/mark-book**
+
+
+
+
+
 ## 零度推荐Github资源：
 
 【看看这个】良心推荐5个免费的容器！不用绑卡、不删数据、不休眠！值得一用 ：https://www.freedidi.com/9313.html
