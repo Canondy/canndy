@@ -30,6 +30,31 @@
 
 ======================================================================================================
 
+## 零度推荐Github资源：
+
+【看看这个】良心推荐5个免费的容器！不用绑卡、不删数据、不休眠！值得一用 ：https://www.freedidi.com/9313.html
+
+* Cryptomator保护云服务器安全：https://github.com/cryptomator/cryptomator
+* Ventoy U盘启动制作工具：https://www.ventoy.net/cn/index.html
+* Rocket.Chat 可自由定制的企业级开源通信平台源码：https://github.com/RocketChat/Rocket.Chat
+* hackingtool 黑客工具全家桶：https://github.com/Z4nzu/hackingtool
+* sniffnet 监控网络流量的工具：https://github.com/GyulyVGC/sniffnet
+* Android 获取 Root 权限的工具：https://github.com/topjohnwu/Magisk
+* 极简的 uptime 监控工具：https://github.com/louislam/uptime-kuma
+* gopeed 一款现代化的下载器（go + drat）：https://github.com/GopeedLab/gopeed
+* 开源的问答社区（go + TypeScript）：https://github.com/answerdev/answer
+* 开源的文件共享系统（go + HTML）：https://github.com/mtlynch/picoshare
+* 开源库存管理系统（Python + JavaScript）：https://github.com/inventree/InvenTree
+* python短信轰炸程序（Python + JavaScript）：https://github.com/OpenEthan/SMSBoom
+* 开源的服务器监控工具（swift）：https://github.com/Lakr233/Rayon
+* 任何视频上的人体抠图：https://github.com/PeterL1n/RobustVideoMatting
+* 网站变更检测、监控和通知服务：https://github.com/dgtlmoon/changedetection.io
+* 
+* 
+* Github 上超强的10款开源软件和项目！：https://www.freedidi.com/7587.html
+* 推荐10款超级实用的免费开源软件！2023：https://www.freedidi.com/10190.html
+
+
 ### Github学习 | Swift | 爬虫 | Linux学习 <br>
 #### Github学习：
   * 0.doocs：https://github.com/doocs?q=&type=all&language=java&sort=
