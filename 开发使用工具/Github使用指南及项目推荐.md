@@ -56,8 +56,19 @@
 * 跟 3, 4一样：https://github.com/chengchenrui/mark-book**
 
 ======================================================================================================
+## 油猴脚本开发 【Tampermonkey, Violentmonkey, Greasemonkey(只有火狐能用), ScriptCat(开源)】
+
+* 油猴开发指南（教程）：https://learn.scriptcat.org/docs/%E7%AE%80%E4%BB%8B/
+* 
+* Tampermonkey 开源地址(源码)：https://github.com/Tampermonkey/tampermonkey
+* Tampermonkey 官网地址：https://www.tampermonkey.net/
+* Violentmonkey 开源地址(源码)：https://github.com/violentmonkey/violentmonkey
+* Violentmonkey 官网地址(指导、API接口、博客)：https://violentmonkey.github.io/
+* ScriptCat 开源地址(源码)：https://github.com/scriptscat/scriptcat
+* vite插件，辅助开发（油猴）等脚本引擎的脚本vite-plugin-monkey：https://github.com/lisonge/vite-plugin-monkey/tree/main
 
 
+======================================================================================================
 
 ## 零度解说推荐Github资源：
 
