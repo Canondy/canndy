@@ -30,7 +30,11 @@
 
 ======================================================================================================
 
+## Java学习优秀作者推荐：
 
+* 掘金~京东云开发者~深入JDK中的Optional（也可看其他博客）：https://juejin.cn/post/7267919941525585977?searchId=20230824020957E74E058FD28BE1826B04
+
+======================================================================================================
 ## Idea插件开发
 ### IntelliJ-IDEA-Tutorial：https://github.com/judasn/IntelliJ-IDEA-Tutorial/blob/master/plugins-develop.md
 
@@ -42,11 +46,11 @@
 * 跟3是一样的：https://github.com/rongyanjuren/markbook
 * 跟 3, 4一样：https://github.com/chengchenrui/mark-book**
 
+======================================================================================================
 
 
 
-
-## 零度推荐Github资源：
+## 零度解说推荐Github资源：
 
 【看看这个】良心推荐5个免费的容器！不用绑卡、不删数据、不休眠！值得一用 ：https://www.freedidi.com/9313.html
 
@@ -70,9 +74,9 @@
 * Github 上超强的10款开源软件和项目！：https://www.freedidi.com/7587.html
 * 推荐10款超级实用的免费开源软件！2023：https://www.freedidi.com/10190.html
 
+======================================================================================================
 
-### Github学习 | Swift | 爬虫 | Linux学习 <br>
-#### Github学习：
+## Github学习：
   * 0.doocs：https://github.com/doocs?q=&type=all&language=java&sort=
   *    JVM学习：https://doocs.github.io/jvm/   （堆 ，方法区）
   *    Linux每天命令；https://www.cnblogs.com/peida/archive/2012/12/05/2803591.html
@@ -112,14 +116,18 @@
   * 34.发卡软件（独角数卡）： https://github.com/assimon/dujiaoka
   * 35.发卡软件（佰阅发卡）：https://github.com/Baiyuetribe/kamiFaka
 
-#### Swift：
+======================================================================================================
+
+## Swift：
   * 1.Swift项目：https://www.jianshu.com/p/757143778db6
   * 2.sSwift开源项目：https://blog.csdn.net/kyl282889543/article/details/100655409
   * 3.AppCoda  Swift and SwiftUI 学习： https://www.appcoda.com/learnswift/swiftui-basics.html
   * 4.AppCoda  Swift and UIKit 	 学习； https://www.appcoda.com/learnuikit/get-started.html
   * 5.AppCoda  Swift 中级		 学习： https://www.appcoda.com/intermediate-swift-tips/adaptive-ui.html
 
-#### 爬虫：
+======================================================================================================
+
+## 爬虫：
   * 1.路飞学院(樵夫---不包含scrapy)：https://www.bilibili.com/video/BV1PY4y1k7t1?p=76 （ok）
   * 2.路飞学院(波波---包含scrapy)：https://www.bilibili.com/video/BV18C4y1a7uk?p=58 （框架开始）
   * 3.路飞学院Python爬虫js逆向：https://www.bilibili.com/video/BV1aM4y157oR?spm_id_from=333.999.0.0 （未开始)
