@@ -33,6 +33,15 @@
 ## Java学习优秀作者推荐：
 
 * 掘金~京东云开发者~深入JDK中的Optional（也可看其他博客）：https://juejin.cn/post/7267919941525585977?searchId=20230824020957E74E058FD28BE1826B04
+* 面试必备{沉默王二)~~Java面试： https://tobebetterjavaer.com/oo/final.html
+* SpringBoot 学习实例   ：https://github.com/ityouknow/spring-boot-examples
+* SpringBoot 框架与其它组件结合Jpa、Mybatis、web socket、security、cache等     ：https://github.com/527515025/springBoot
+* 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计：https://github.com/CyC2018/CS-Notes
+* 
+
+
+
+
 
 ======================================================================================================
 ## Idea插件开发
