@@ -30,6 +30,21 @@
 
 ====================================================================================================
 
+## Github 黑马教程
+* MySQL、Maven、Mybatis、Tomcat、JDBC：https://github.com/Wj-00991314/JavaWebNotes_ItHeiMa
+* SpringBoot、MybatisPlus：https://github.com/shuhongfan/SSM_Demo01
+* 解密JVM：https://github.com/2gb0101/Java-JVM
+* Netty全套教程（有图解）：https://github.com/shuhongfan/Netty_Demo01
+* Netty全套教程（只有代码）： https://github.com/whjpyy/itcast-netty/
+* 苍穹外卖（SpringBoot + 微信小程序）：https://github.com/shuhongfan/sky-take-out
+* 学成在线（SpringCloudAlibaba + rabbitmq + Vue3）：https://github.com/shuhongfan/xuecheng-plus
+* 品达物流 (TMS + APP): https://github.com/shuhongfan/pinda-tms-java
+* 黑马头条（Kafka + ES + Hbase）: https://github.com/shuhongfan/heima-leadnew
+* 集信达【短信平台】（Docker）：https://github.com/shuhongfan/pd-sms-backend
+* 面试 ： https://github.com/shuhongfan/itcast_interview
+
+====================================================================================================
+
 ## Java学习优秀作者推荐：
 
 * 掘金~京东云开发者~深入JDK中的Optional（也可看其他博客）：https://juejin.cn/post/7267919941525585977?searchId=20230824020957E74E058FD28BE1826B04
@@ -37,13 +52,20 @@
 * SpringBoot 学习实例   ：https://github.com/ityouknow/spring-boot-examples
 * SpringBoot 框架与其它组件结合Jpa、Mybatis、web socket、security、cache等     ：https://github.com/527515025/springBoot
 * 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计：https://github.com/CyC2018/CS-Notes
-* 
-
-
-
 
 
 ====================================================================================================
+
+## 前端学习优秀作者推荐：
+* 阮一峰教学文档：https://wangdoc.com/
+* 张鑫旭的博客：https://www.zhangxinxu.com/
+* 淘系前端团队：https://fed.taobao.org/
+* Web前端导航：http://www.alloyteam.com/nav/
+* 腾讯前端：http://www.alloyteam.com/
+
+
+====================================================================================================
+
 ## Idea插件开发
 ### IntelliJ-IDEA-Tutorial：https://github.com/judasn/IntelliJ-IDEA-Tutorial/blob/master/plugins-develop.md
 
@@ -56,6 +78,7 @@
 * 跟 3, 4一样：https://github.com/chengchenrui/mark-book**
 
 ====================================================================================================
+
 ## 油猴脚本开发 【Tampermonkey, Violentmonkey, Greasemonkey(只有火狐能用), ScriptCat(开源)】
 
 * 油猴开发指南（教程）：https://learn.scriptcat.org/docs/%E7%AE%80%E4%BB%8B/
@@ -66,7 +89,6 @@
 * Violentmonkey 官网地址(指导、API接口、博客)：https://violentmonkey.github.io/
 * ScriptCat 开源地址(源码)：https://github.com/scriptscat/scriptcat
 * vite插件，辅助开发（油猴）等脚本引擎的脚本vite-plugin-monkey：https://github.com/lisonge/vite-plugin-monkey/tree/main
-
 
 ====================================================================================================
 
