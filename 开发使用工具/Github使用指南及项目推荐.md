@@ -56,12 +56,30 @@
 
 ====================================================================================================
 
-## 前端学习优秀作者推荐：
-* 阮一峰教学文档：https://wangdoc.com/
+## JavaScript前端学习优秀作者推荐：
+* 前端学习路径：https://github.com/qianguyihao/Web
+* [构建、测试和发现前端代码的最佳场所  代码摸版 可以直接使用](https://codepen.io/)
+* [ 12 个 GitHub 上超火的 JavaScript 奇技淫巧项目，找到写 JavaScript 的灵感！](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/14)
+* 阮一峰教学文档(JS基础 + 高级)：https://wangdoc.com/
+* JavaScript学习资源大全：https://github.com/0e0w/LearnJS
+* 20个JavaScript练手项目：https://github.com/bradtraversy/vanillawebprojects
+* JavaScript写的2048项目：https://github.com/gd4Ark/2048
+* JavaScript50个小项目：https://github.com/bradtraversy/50projects50days
+* b站依力学习：https://github.com/orgs/programmer-yili/repositories
+
+
+## **Vue**
+* Vue仿美团项目（后端使用node.js):https://github.com/zwStar/vue-meituan
+* Vue + SpringBoot + MyBatis 音乐网站：https://github.com/Yin-Hongwei/music-website
+* Flutter高仿斗鱼app：https://github.com/yukilzw/dy_flutter
+
 * 张鑫旭的博客：https://www.zhangxinxu.com/
 * 淘系前端团队：https://fed.taobao.org/
 * Web前端导航：http://www.alloyteam.com/nav/
 * 腾讯前端：http://www.alloyteam.com/
+
+* 安卓高仿抖音项目：https://github.com/running-libo/Tiktok
+* 安卓高仿网易云项目：https://github.com/aa112901/remusic
 
 
 ====================================================================================================
@@ -119,70 +137,66 @@
 ====================================================================================================
 
 ## Github学习：
-  * 0.doocs：https://github.com/doocs?q=&type=all&language=java&sort=
-  *    JVM学习：https://doocs.github.io/jvm/   （堆 ，方法区）
-  *    Linux每天命令；https://www.cnblogs.com/peida/archive/2012/12/05/2803591.html
-  * 1.Java学习及面试指南：https://github.com/Snailclimb/JavaGuide
-  * 2.20个js练手项目：https://github.com/bradtraversy/vanillawebprojects
-  * 3.js写的2048项目：https://github.com/gd4Ark/2048
-  * 4.js50个小项目：https://github.com/bradtraversy/50projects50days
-  * 5.Vue + SpringBoot + MyBatis 音乐网站：https://github.com/Yin-Hongwei/music-website
-  * 6.SpringBlade微服务开发平台: https://github.com/chillzhuang/SpringBlade
-  * 7.数据库表结构文档生成器：https://github.com/pingfangushi/screw
-  * 8.计算机专业课：https://github.com/SSHeRun/CS-Xmind-Note
-  * 9.b站依力学习：https://github.com/orgs/programmer-yili/repositories
-  * 10.Python：https://github.com/subbarayudu-j/TheAlgorithms-Python
-  * 11.python算法：https://github.com/TheAlgorithms/Python
-  * 12.scikit-learn：Python 中的机器学习：https://github.com/scikit-learn/scikit-learn
-  * 13.python爬虫教学：https://github.com/wistbean/learn_python3_spider
-  * 14.以撸代码的形式学习Python：https://github.com/xianhu/LearnPython
-  * 15.Python学习：https://github.com/trekhleb/learn-python
-  * 16.深度学习：https://github.com/fchollet/deep-learning-with-python-notebooks
-  * 17.机器学习：https://github.com/rasbt/python-machine-learning-book
-  * 18.python-编码/算法问题的解决方案: https://github.com/MTrajK/coding-problems
-  * 19.100 多个具有挑战性的 Python 编程练习: https://github.com/zhiwehu/Python-programming-exercises
-  * 20.基于项目的教程的精选列表：https://github.com/practical-tutorials/project-based-learning
-  * 21.很棒的 Python 框架、库、软件和资源的精选列表: https://github.com/vinta/awesome-python
-  * 22.Python资源大全中文版: https://github.com/jobbole/awesome-python-cn
-  * 23.用 Python 实现的所有算法: https://github.com/TheAlgorithms/Python
-  * 24.Java小福哥面试：https://github.com/fuzhengwei/CodeGuide
-  * 25.Java在线考试系统（只是Java代码，还有vue前端代码和各个端系统）：https://github.com/FrontDemon/onlineexam-system-backend
-  * 26.Java精仿今日头条安卓项目：https://github.com/chaychan/TouTiao
-  * 27.Object-C高仿抖音项目：https://github.com/sshiqiao/douyin-ios-objectc
-  * 28.安卓高仿抖音项目：https://github.com/running-libo/Tiktok
-  * 29.安卓高仿网易云项目：https://github.com/aa112901/remusic
-  * 30.Vue仿美团项目（后端使用node.js):https://github.com/zwStar/vue-meituan
-  * 31.Flutter高仿斗鱼app：https://github.com/yukilzw/dy_flutter
-  * 32.前端学习路径：https://github.com/qianguyihao/Web
-  * 33.JavaGuide(学习与指南)：https://javaguide.cn/
-  * 34.发卡软件（独角数卡）： https://github.com/assimon/dujiaoka
-  * 35.发卡软件（佰阅发卡）：https://github.com/Baiyuetribe/kamiFaka
+* 0.doocs：https://github.com/doocs?q=&type=all&language=java&sort=
+* JVM学习：https://doocs.github.io/jvm/   （堆 ，方法区）
+* Linux每天命令；https://www.cnblogs.com/peida/archive/2012/12/05/2803591.html
+* Java学习及面试指南：https://github.com/Snailclimb/JavaGuide
+* JavaGuide(学习与指南)：https://javaguide.cn/
+* SpringBlade微服务开发平台: https://github.com/chillzhuang/SpringBlade
+* 数据库表结构文档生成器：https://github.com/pingfangushi/screw
+* 计算机专业课：https://github.com/SSHeRun/CS-Xmind-Note
+* Java小福哥面试：https://github.com/fuzhengwei/CodeGuide
+* Java在线考试系统（只是Java代码，还有vue前端代码和各个端系统）：https://github.com/FrontDemon/onlineexam-system-backend
+* Java精仿今日头条安卓项目：https://github.com/chaychan/TouTiao
+
+====================================================================================================
+
+## Python
+* Python：https://github.com/subbarayudu-j/TheAlgorithms-Python
+* python算法：https://github.com/TheAlgorithms/Python
+* scikit-learn：Python 中的机器学习：https://github.com/scikit-learn/scikit-learn
+* python爬虫教学：https://github.com/wistbean/learn_python3_spider
+* 以撸代码的形式学习Python：https://github.com/xianhu/LearnPython
+* Python学习：https://github.com/trekhleb/learn-python
+* 深度学习：https://github.com/fchollet/deep-learning-with-python-notebooks
+* 机器学习：https://github.com/rasbt/python-machine-learning-book
+* python-编码/算法问题的解决方案: https://github.com/MTrajK/coding-problems
+* 100 多个具有挑战性的 Python 编程练习: https://github.com/zhiwehu/Python-programming-exercises
+* 基于项目的教程的精选列表：https://github.com/practical-tutorials/project-based-learning
+* 很棒的 Python 框架、库、软件和资源的精选列表: https://github.com/vinta/awesome-python
+* Python资源大全中文版: https://github.com/jobbole/awesome-python-cn
+* 用 Python 实现的所有算法: https://github.com/TheAlgorithms/Python
+
+
+* 发卡软件（独角数卡）： https://github.com/assimon/dujiaoka
+* 发卡软件（佰阅发卡）：https://github.com/Baiyuetribe/kamiFaka
 
 ====================================================================================================
 
 ## Swift：
-  * 1.Swift项目：https://www.jianshu.com/p/757143778db6
-  * 2.sSwift开源项目：https://blog.csdn.net/kyl282889543/article/details/100655409
-  * 3.AppCoda  Swift and SwiftUI 学习： https://www.appcoda.com/learnswift/swiftui-basics.html
-  * 4.AppCoda  Swift and UIKit 	 学习； https://www.appcoda.com/learnuikit/get-started.html
-  * 5.AppCoda  Swift 中级		 学习： https://www.appcoda.com/intermediate-swift-tips/adaptive-ui.html
+* Swift项目：https://www.jianshu.com/p/757143778db6
+* Swift开源项目：https://blog.csdn.net/kyl282889543/article/details/100655409
+* AppCoda  Swift and SwiftUI 学习： https://www.appcoda.com/learnswift/swiftui-basics.html
+* AppCoda  Swift and UIKit 	 学习； https://www.appcoda.com/learnuikit/get-started.html
+* AppCoda  Swift 中级		 学习： https://www.appcoda.com/intermediate-swift-tips/adaptive-ui.html
+* Object-C高仿抖音项目：https://github.com/sshiqiao/douyin-ios-objectc
 
 ====================================================================================================
 
 ## 爬虫：
-  * 1.路飞学院(樵夫---不包含scrapy)：https://www.bilibili.com/video/BV1PY4y1k7t1?p=76 （ok）
-  * 2.路飞学院(波波---包含scrapy)：https://www.bilibili.com/video/BV18C4y1a7uk?p=58 （框架开始）
-  * 3.路飞学院Python爬虫js逆向：https://www.bilibili.com/video/BV1aM4y157oR?spm_id_from=333.999.0.0 （未开始)
-  * 4.Python爬虫全套+js逆向爬虫  （2和3的合集）：https://www.bilibili.com/video/BV1DR4y1E7uT?spm_id_from=333.999.0.0
-  * 4.Python爬虫全套课程 （2 + aiphttp异步编程 ： https://www.bilibili.com/video/BV1Yh411o7Sz?spm_id_from=333.999.0.0
-  * 4.Python爬虫项目（爬取数据+数据整理+数据可视化3小时）
-  *    (requests + bs4):  https://www.bilibili.com/video/BV1Ry4y1V7PE?spm_id_from=333.999.0.0 （未开始)
-  * 5.Python爬虫项目（批量获取美女模特照片）（requests + xpath) : https://www.bilibili.com/video/BV1Tu411o7qX?p=3
-  * 6.Python实战案例合集 爬虫+数据分析+数据可视化展示 （7小时） ：https://www.bilibili.com/video/BV1Fz4y1y7Ct?spm_id_from=333.999.0.0
-  * 7.爬取微博评论：https://www.bilibili.com/video/BV1dT4y1C7m9/?spm_id_from=333.788
-  * 8.B站上搜索：python学习者 （100+爬虫案例）
-  * 9.Python爬虫教程（scrapy框架）：https://www.bilibili.com/video/BV17S4y187B6?spm_id_from=333.999.0.0
-  * 9.Python爬虫教程（scrapy框架）（和上面的9差不多）：https://www.bilibili.com/video/BV1tt4y1W7zw?spm_id_from=333.999.0.0
+* 1.路飞学院(樵夫---不包含scrapy)：https://www.bilibili.com/video/BV1PY4y1k7t1?p=76 （ok）
+* 2.路飞学院(波波---包含scrapy)：https://www.bilibili.com/video/BV18C4y1a7uk?p=58 （框架开始）
+* 3.路飞学院Python爬虫js逆向：https://www.bilibili.com/video/BV1aM4y157oR?spm_id_from=333.999.0.0 （未开始)
+* 4.Python爬虫全套+js逆向爬虫  （2和3的合集）：https://www.bilibili.com/video/BV1DR4y1E7uT?spm_id_from=333.999.0.0
+* 4.Python爬虫全套课程 （2 + aiphttp异步编程 ： https://www.bilibili.com/video/BV1Yh411o7Sz?spm_id_from=333.999.0.0
+* 4.Python爬虫项目（爬取数据+数据整理+数据可视化3小时）
+*    (requests + bs4):  https://www.bilibili.com/video/BV1Ry4y1V7PE?spm_id_from=333.999.0.0 （未开始)
+* 5.Python爬虫项目（批量获取美女模特照片）（requests + xpath) : https://www.bilibili.com/video/BV1Tu411o7qX?p=3
+* 6.Python实战案例合集 爬虫+数据分析+数据可视化展示 （7小时） ：https://www.bilibili.com/video/BV1Fz4y1y7Ct?spm_id_from=333.999.0.0
+* 7.爬取微博评论：https://www.bilibili.com/video/BV1dT4y1C7m9/?spm_id_from=333.788
+* 8.B站上搜索：python学习者 （100+爬虫案例）
+* 9.Python爬虫教程（scrapy框架）：https://www.bilibili.com/video/BV17S4y187B6?spm_id_from=333.999.0.0
+* 9.Python爬虫教程（scrapy框架）（和上面的9差不多）：https://www.bilibili.com/video/BV1tt4y1W7zw?spm_id_from=333.999.0.0
  
 
 
