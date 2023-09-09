@@ -69,8 +69,9 @@
 
 
 ## **Vue**
-* Vue仿美团项目（后端使用node.js):https://github.com/zwStar/vue-meituan
+* [Vue3工具大合集](https://vue3js.cn)
 * Vue + SpringBoot + MyBatis 音乐网站：https://github.com/Yin-Hongwei/music-website
+* Vue仿美团项目（后端使用node.js):https://github.com/zwStar/vue-meituan
 * Flutter高仿斗鱼app：https://github.com/yukilzw/dy_flutter
 
 * 张鑫旭的博客：https://www.zhangxinxu.com/
@@ -84,7 +85,17 @@
 
 ====================================================================================================
 
+## Linux 服务器 Vps
+* [awesome-selfhosted 自定义服务器 买了服务器不知道要干什么 看他就行了](https://github.com/awesome-selfhosted/awesome-selfhosted)
+* [cheat.sh 看看Github 快速查询Linux命令](http://cheat.sh)
+* 
+
+====================================================================================================
+
 ## Idea插件开发
+
+## [Idea插件破解教程 b站有教程 已收入收藏夹](https://3.jetbra.in)
+
 ### IntelliJ-IDEA-Tutorial：https://github.com/judasn/IntelliJ-IDEA-Tutorial/blob/master/plugins-develop.md
 
 #### bilibili搜索  Idea插件开发：
