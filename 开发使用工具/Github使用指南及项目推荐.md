@@ -31,9 +31,15 @@
 ====================================================================================================
 
 ## Github 黑马教程
+* SpringCloud、Nacos、Docker、ES、MQ ：https://github.com/LY-1/SpringCloud
 * MySQL、Maven、Mybatis、Tomcat、JDBC：https://github.com/Wj-00991314/JavaWebNotes_ItHeiMa
 * SpringBoot、MybatisPlus：https://github.com/shuhongfan/SSM_Demo01
+* Node.js : https://github.com/tiankainobug/node-study
+* html&css：https://github.com/Yanbo-Zhu/HTML5_CSS3_HeiMaPink
+* Java基础：https://github.com/tisu97/JAVASE_Notes/tree/master
+* Linux: https://github.com/inspire298/Linux
 * 解密JVM：https://github.com/2gb0101/Java-JVM
+* 看看虚拟机、并发、框架：https://github.com/shuhongfan/Interview_Heima_Demo01
 * Netty全套教程（有图解）：https://github.com/shuhongfan/Netty_Demo01
 * Netty全套教程（只有代码）： https://github.com/whjpyy/itcast-netty/
 * 苍穹外卖（SpringBoot + 微信小程序）：https://github.com/shuhongfan/sky-take-out
@@ -42,7 +48,7 @@
 * 黑马头条（Kafka + ES + Hbase）: https://github.com/shuhongfan/heima-leadnew
 * 集信达【短信平台】（Docker）：https://github.com/shuhongfan/pd-sms-backend
 * 面试 ： https://github.com/shuhongfan/itcast_interview
-
+* 
 ====================================================================================================
 
 ## Java学习优秀作者推荐：
