@@ -3,6 +3,10 @@
 
 # 有关科学上网的所有话题：https://github.com/topics/shadowrocket
 
+## 想买更便宜的 看Vps推荐  Google直接搜素 Vps推荐  机场测评
+## Racknerd 10美元3T 1G/s 17G ssd：https://my.racknerd.com/cart.php?a=confproduct&i=2
+## 不要买这个Vps（1年150元）【不知道能不能运营FB INS】：https://cloudcone.com/vps/#pricingtitle
+
 ## 首推  小火箭配置规则及模块：https://github.com/deezertidal/shadowrocket-rules
 
 ### 圈 小火箭 stash loon: https://github.com/deezertidal

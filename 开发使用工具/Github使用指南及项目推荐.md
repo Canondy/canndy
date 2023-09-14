@@ -48,11 +48,18 @@
 * 黑马头条（Kafka + ES + Hbase）: https://github.com/shuhongfan/heima-leadnew
 * 集信达【短信平台】（Docker）：https://github.com/shuhongfan/pd-sms-backend
 * 面试 ： https://github.com/shuhongfan/itcast_interview
+* b站 直接搜索 Java面试
+* 
+* 免费书籍汇总：https://github.com/lTbgykio/Books-Free-Books
+* 免费书籍汇总：https://github.com/Dujltqzv/Some-Many-Books
+* 免费书籍汇总：https://github.com/XiangLinPro/IT_book
+* CS-Notes 115K：https://github.com/CyC2018/CS-Notes/
 * 
 ====================================================================================================
 
 ## Java学习优秀作者推荐：
 
+* Java面试：https://javaguide.cn/system-design/framework/spring/spring-common-annotations.html
 * 掘金~京东云开发者~深入JDK中的Optional（也可看其他博客）：https://juejin.cn/post/7267919941525585977?searchId=20230824020957E74E058FD28BE1826B04
 * 面试必备{沉默王二)~~Java面试： https://tobebetterjavaer.com/oo/final.html
 * SpringBoot 学习实例   ：https://github.com/ityouknow/spring-boot-examples
@@ -76,7 +83,12 @@
 
 ## **Vue**
 * [Vue3工具大合集](https://vue3js.cn)
+* 
+* [黑马Vue3教程](https://www.bilibili.com/video/BV1HV4y1a7n4/?p=182&spm_id_from=pageDriver&vd_source=a4bd0788f4588dfb5b4bcd5af0d5b691)
+* [Vue3-big-event-admin(上面教程配套资料)](https://github.com/search?q=Vue3-big-event-admin&type=repositories)
+* 
 * Vue + SpringBoot + MyBatis 音乐网站：https://github.com/Yin-Hongwei/music-website
+* 
 * Vue仿美团项目（后端使用node.js):https://github.com/zwStar/vue-meituan
 * Flutter高仿斗鱼app：https://github.com/yukilzw/dy_flutter
 
