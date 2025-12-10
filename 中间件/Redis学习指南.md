@@ -8,11 +8,11 @@
 
 > 重启<br>
 > brew services restart redis
- 
+
 > 关闭<br>
 > brew services stop redis
 
-###2.Redis基础操作
+### 2.Redis基础操作
 > 设置链接密码（或直接修改redis.conf配置文件）<br>
 > config set requirepass (密码)
 
@@ -31,7 +31,7 @@
  列表(List)是简单的字符串列表,按插入顺序排序。<br>
  集合(Set)是字符串的无序集合,元素不能重复。<br>
  有序集合(ZSet)是带分数的字符串元素集合,并按分数排序。<br>
-```
+```json
 String:
   "key": "value"
 Hash:
@@ -126,7 +126,6 @@ ZSet:
 >
 
 > <br>
->
 
 > <br>
 >
@@ -156,4 +155,3 @@ ZSet:
 >
 
 > <br>
->
