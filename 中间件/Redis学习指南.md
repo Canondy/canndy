@@ -31,25 +31,29 @@
  列表(List)是简单的字符串列表,按插入顺序排序。<br>
  集合(Set)是字符串的无序集合,元素不能重复。<br>
  有序集合(ZSet)是带分数的字符串元素集合,并按分数排序。<br>
-```json
-String:
+```bash
+# String
   "key": "value"
-Hash:
+  
+# Hash:
     "key": {
         "field1": "value1",
         "field2": "value2"
     }
-List:
+    
+# List:
     "key": [
         "value1",
         "value2"
     ]
-Set:
+    
+# Set:
     "key": {
         "value1",
         "value2"
     }
-ZSet:
+    
+# ZSet:
     "key": [
         {"score": 0.1, "member": "value1"},
         {"score": 0.2, "member": "value2"}
