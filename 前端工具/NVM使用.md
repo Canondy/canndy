@@ -3,6 +3,7 @@
 >此前电脑上已安装npm和node，不必卸载，不会影响使用
 
 ###1使用Homebrew安装nvm
+
 >brew install nvm
 
 注意：安装完成 将以下配置信息添加到 ~/.zshrc 中
@@ -20,7 +21,7 @@
 
 >查看已经安装的版本<br>
 >nvm list installed 
- 
+
 >查看网络可以安装的版本<br>
 >nvm list available
 
@@ -33,7 +34,7 @@
 >卸载指定的node版本<br>
 >nvm uninstall  (node版本号）
 
->安装最新稳定版 node<br>
+>安装最新稳定版 node<br>w
 >nvm install stable            
 
 >(不推荐使用)安装指定版本，可模糊安装，如：安装v4.4.0，既可nvm install v4.4.0，又可nvm install 4.4 <br>
